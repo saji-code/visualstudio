@@ -15,6 +15,7 @@ namespace DevopsWeb
     {
         public Startup(IConfiguration configuration)
         {
+            //changes
             Configuration = configuration;
         }
 
